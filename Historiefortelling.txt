@@ -29,3 +29,5 @@ merge conflictw
  22
 
 nothing happened
+
+merge conflict2
