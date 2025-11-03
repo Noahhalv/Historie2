@@ -36,3 +36,6 @@ merge conflict2
 
 it is what it is
 >>>>>>> 997d4a2db7ad2d031e46805717af73c715d44f42
+
+
+26~
