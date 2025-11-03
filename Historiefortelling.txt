@@ -23,3 +23,5 @@ Setning 13
 
 20 endeliggg
  twenty-one
+
+merge conflictw
