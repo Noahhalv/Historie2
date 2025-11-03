@@ -24,4 +24,8 @@ Setning 13
 20 endeliggg
  twenty-one
 
-merge conflictw
+merge conflictw 
+ 
+ 22
+
+nothing happened
